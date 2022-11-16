@@ -1,15 +1,21 @@
 Hi 👋 My name is Kingsley
 =========================
 
-* 🌍  I'm based in Ghana
+A Software Engineer
+-------------------
 
-### Skills
+Kingsley Amankwah is an experienced software engineer with in-depth knowledge of various technologies and tools. He is looking for opportunities in Software Engineering with a preference for Frontend development, Backend development or Full-stack development. He loves to network and get to know many different people. He is passionate about computer science; he believes he can use his technical skills to impact this world significantly. Proficient: JavaScript, PHP, SQL, ReactJS, Redux, TailwindCSS, Bootstrap, HTML/CSS NodeJs, MongoDB, ExpressJs. Familiar: with C++, Firebase, Jira, and Miro. 📞 +233-553-157-022 🌐 kuamiklassic149@gmail.com
 
-
+*   🌍  I'm based in Ghana
+*   🖥️  See my portfolio at [MyPortfolio](http://akingsley.netlify.app)
+*   ✉️  You can contact me at [kuamiklassic149@gmail.com](mailto:kuamiklassic149@gmail.com)
+*   🧠  I'm learning React Native
+*   🤝  I'm open to collaborating on Interesting projects### Skills 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
@@ -25,20 +31,18 @@ Hi 👋 My name is Kingsley
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/KingsleyAmankwah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kingsleyamankwah/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/IAmKingsley001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/KingsleyAmankwah"><img src="https://github-readme-stats.vercel.app/api?username=KingsleyAmankwah&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="KingsleyAmankwah's GitHub stats" /></a>
-
-<a href="http://www.github.com/KingsleyAmankwah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KingsleyAmankwah&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/KingsleyAmankwah"><img src="https://activity-graph.herokuapp.com/graph?username=KingsleyAmankwah&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/KingsleyAmankwah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingsleyAmankwah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/KingsleyAmankwah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/kingsleyamankwah/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/IAmKingsley001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/KingsleyAmankwah"><img src="https://github-readme-stats.vercel.app/api?username=KingsleyAmankwah&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="KingsleyAmankwah's GitHub stats" /></a><a
+                      href="http://www.github.com/KingsleyAmankwah"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=KingsleyAmankwah&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/KingsleyAmankwah"><img src="https://activity-graph.herokuapp.com/graph?username=KingsleyAmankwah&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/KingsleyAmankwah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingsleyAmankwah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
