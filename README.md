@@ -3,13 +3,12 @@ Hi 👋 My name is Kingsley
 
 A Software Engineer
 -------------------
+I am a highly motivated software engineer who is highly skilled in developing and deploying web applications. My expertise lies in building scalable and high-performance systems using a variety of programming languages such as JavaScript, PHP and Python. 
 
-Kingsley Amankwah is an experienced software engineer with in-depth knowledge of various technologies and tools. He is looking for opportunities in Software Engineering with a preference for Frontend development, Backend development or Full-stack development.
-He loves to network and get to know many different people. 
-He is passionate about computer science; he believes he can use his technical skills to impact this world significantly.
-Proficient: JavaScript, PHP, SQL, ReactJS, Redux, TailwindCSS, Bootstrap, HTML/CSS NodeJs, MongoDB, ExpressJs.
-Familiar: with C++, Firebase, Jira, and Miro. 
-📞 +233-553-157-022 🌐 kuamiklassic149@gmail.com
+I am skilled in developing full-stack applications, with a strong background in front-end development using React and back-end development using Node.js and Express. I also have experience in working with databases such as MongoDB and MySQL.
+
+ I am a problem solver, able to understand and analyze business requirements and deliver the best technical solutions. I am always eager to learn new technologies and stay up-to-date with the latest industry developments. I am excited to work on challenging projects and be part of a team that pushes boundaries
+
 
 * 🌍  I'm based in Ghana
 * 🖥️  See my portfolio at [MyPortfolio](http://akingsley.netlify.app)
