@@ -7,7 +7,7 @@ I am a highly motivated software engineer who is highly skilled in developing an
 
 I am skilled in developing full-stack applications, with a strong background in front-end development using React and back-end development using Node.js and Express. I also have experience in working with databases such as MongoDB and MySQL.
 
- I am a problem solver, able to understand and analyze business requirements and deliver the best technical solutions. I am always eager to learn new technologies and stay up-to-date with the latest industry developments. I am excited to work on challenging projects and be part of a team that pushes boundaries
+ I am a problem solver, able to understand and analyze business requirements and deliver the best technical solutions. I am always eager to learn new technologies and stay up-to-date with the latest industry developments. I am excited to work on challenging projects and be part of a team that pushes boundaries.
 
 <!-- * 🖥️  See my portfolio at [MyPortfolio](http://akingsley.netlify.app) -->
 * 🧠  I'm always learning 
