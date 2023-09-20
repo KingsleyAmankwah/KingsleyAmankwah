@@ -1,4 +1,4 @@
-Hey there 👋 I'm Kingsley
+Hey there 👋 my name is Kingsley
 =========================
 
 Software Engineer and Technical Writer
