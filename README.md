@@ -1,8 +1,8 @@
-Hey there 👋 Kingsley is my name 
+Hey there 👋 I'm Kingsley
 =========================
 
-Software Engineer and Technical Writer
-----------------------------------------
+I'm a Software Engineer and Technical Writer
+-------------------------------------------
 I am a highly motivated software engineer who is highly skilled in developing and deploying web applications. My expertise lies in building scalable and high-performance systems using a variety of programming languages such as JavaScript and PHP
 
 I am skilled in developing full-stack applications, with a strong background in front-end development using React and back-end development using Node.js and Express. I also have experience in working with databases such as MongoDB and MySQL
