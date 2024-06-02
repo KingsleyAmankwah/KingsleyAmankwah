@@ -4,7 +4,7 @@ Hi 👋 My name is Kingsley Amnakwah
 Software Engineer and Technical Writer
 --------------------------------------
 
-💡 Tech Toolbox: Fluent in JavaScript, TypeScript, and PHP, and adept with the MERN Stack (MongoDB, Express, React, Next, Node), I bring a robust skill set to the table. 
+💡 Tech Toolbox: Fluent in JavaScript, TypeScript, Java, React, Angular, NextJs, NodeJs, ExpressJs, Spring Boot.
 
 🎯 What Sets Me Apart: I thrive on dissecting complex business requirements and transforming them into elegant technical solutions. My approach is not just about writing code but creating impactful solutions that align seamlessly with business objectives. 
 
