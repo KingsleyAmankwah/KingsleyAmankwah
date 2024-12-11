@@ -4,16 +4,18 @@ Hi 👋 My name is Kingsley Amnakwah
 Software Engineer and Technical Writer
 --------------------------------------
 
-💡 Tech Toolbox: Fluent in JavaScript, TypeScript, Java, React, Angular, NextJs, NodeJs, ExpressJs, Spring Boot.
+💡 Tech Toolbox: Proficient in Java, TypeScript, JavaScript |
+ Frameworks: Spring Boot, React, Angular, Next.js |
+ Backend: Node.js, Express.js | 
+ Databases: PostgreSQL, MongoDB, MySQL
 
 🎯 What Sets Me Apart: I thrive on dissecting complex business requirements and transforming them into elegant technical solutions. My approach is not just about writing code but creating impactful solutions that align seamlessly with business objectives. 
 
 🌐 Continuous Learner: In the ever-evolving tech landscape, I'm not just content with what I know—I'm hungry for more. Always on the lookout for the latest industry developments, I'm committed to staying at the forefront of technology trends.
 
-💪 Versatility in Roles: Currently seeking opportunities in Software Engineering, Frontend Development, Backend Engineering, and Technical Writing. I'm not just a problem solver; I'm a versatile contributor ready to take on any challenge.
+💪 Versatility in Roles: Open for opportunities in Software Engineering, Full-Stack Development, Backend Engineering, and Technical Writing. I'm not just a problem solver; I'm a versatile contributor ready to take on any challenge.
 
-* 🌍  I'm based in Accra, Ghana
-* ✉️  Contact me on [LinkedIn](https://www.linkedin.com/in/kingsleyamankwah/)
+✉️  Contact me on [LinkedIn](https://www.linkedin.com/in/kingsleyamankwah/)
 
 ### Skills
 
