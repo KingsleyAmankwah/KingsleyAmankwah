@@ -13,7 +13,7 @@ Software Engineer and Technical Writer
 💪 Versatility in Roles: Currently seeking opportunities in Software Engineering, Frontend Development, Backend Engineering, and Technical Writing. I'm not just a problem solver; I'm a versatile contributor ready to take on any challenge.
 
 * 🌍  I'm based in Accra, Ghana
-* ✉️  You can contact me at [kingsleyamankwah26@gmail.com](mailto:kingsleyamankwah26@gmail.com)
+* ✉️  Contact me on [LinkedIn](https://www.linkedin.com/in/kingsleyamankwah/)
 
 ### Skills
 
