@@ -1,7 +1,7 @@
 Hi 👋 My name is Kingsley Amnakwah
 ==================================
 
-Software Engineer and Technical Writer
+Software Engineering and Technical Writing
 --------------------------------------
 
 💡 Tech Toolbox: Proficient in Java, TypeScript, JavaScript |
