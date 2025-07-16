@@ -6,7 +6,7 @@ Software Engineering and Technical Writing
 
 💡 Tech Toolbox: Proficient in Java, TypeScript, JavaScript |
  Frameworks: Spring Boot, React, Angular, Next.js |
- Backend: Node.js, Express.js | 
+ Backend: Node.js, NestJS, Express.js | 
  Databases: PostgreSQL, MongoDB, MySQL
 
 🎯 What Sets Me Apart: I thrive on dissecting complex business requirements and transforming them into elegant technical solutions. My approach is not just about writing code but creating impactful solutions that align seamlessly with business objectives. 
