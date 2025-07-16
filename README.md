@@ -1,4 +1,4 @@
-Hi 👋 My name is Kingsley Amnakwah
+Hi 👋 My name is Kingsley
 ==================================
 
 Software Engineering and Technical Writing
