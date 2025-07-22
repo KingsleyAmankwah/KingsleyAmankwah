@@ -4,7 +4,7 @@ Hi 👋 My name is Kingsley
 Software Engineering and Technical Writing
 --------------------------------------
 
-💡 Tech Toolbox: Proficient in Java, TypeScript, JavaScript |
+💡 Tech Toolbox: Proficient in TypeScript, JavaScript |
  Frameworks: Spring Boot, React, Angular, Next.js |
  Backend: Node.js, NestJS, Express.js | 
  Databases: PostgreSQL, MongoDB, MySQL
